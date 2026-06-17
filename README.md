@@ -34,14 +34,14 @@ I am a developer focused on solving real-world problems through clean architectu
   <!-- Glowing/Dark Theme GitHub Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=anirbanisnotavailable&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=9CA3AF&icon_color=6366F1" width="48%" />
   
-  <!-- Fixed Streak Stats via Demolab -->
-  <img src="https://streak-stats.demolab.com/?user=anirbanisnotavailable&theme=tokyonight&hide_border=true&background=0D1117&ring=6366F1&fire=A855F7&currStreakNum=9CA3AF" width="48%" />
+  <!-- Top Languages Card (Moved to side-by-side for perfect symmetry) -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anirbanisnotavailable&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=9CA3AF" width="48%" />
   
 </div>
 <br>
 <div align="center">
-  <!-- Top Languages Card -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anirbanisnotavailable&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=9CA3AF" width="60%" />
+  <!-- Neon Activity Graph (Highly Reliable Vercel Host) -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anirbanisnotavailable&bg_color=0D1117&color=9CA3AF&line=A855F7&point=6366F1&area=true&hide_border=true" width="100%" />
 </div>
 ---
 ### 🚀 Featured Projects
