@@ -6,7 +6,7 @@
   Building high-performance utilities and crafting clean code across the digital cosmos.
 </p>
 <br/>
-<a href="https://github.com/YOUR_GITHUB_USERNAME"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile"/></a>
+<a href="https://github.com/anirbanisnotavailable"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile"/></a>
 </div>
 ---
 ### 🛸 About My Orbit
@@ -29,14 +29,14 @@ I am a developer focused on solving real-world problems through clean architectu
 ### 🌌 GitHub Telemetry
 <div align="center">
   
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=9CA3AF&icon_color=6366F1" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=anirbanisnotavailable&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=9CA3AF&icon_color=6366F1" width="48%" />
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&background=0D1117&ring=6366F1&fire=A855F7&currStreakNum=9CA3AF" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anirbanisnotavailable&theme=tokyonight&hide_border=true&background=0D1117&ring=6366F1&fire=A855F7&currStreakNum=9CA3AF" width="48%" />
   
 </div>
 <br>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=9CA3AF" width="60%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?user=anirbanisnotavailable&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=9CA3AF" width="60%" />
 </div>
 ---
 ### 🚀 Featured Projects
