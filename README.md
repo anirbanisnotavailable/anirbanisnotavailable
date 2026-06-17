@@ -1,21 +1,19 @@
 <div align="center">
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Welcome+to+my+Universe+🌌;Mobile+Application+Developer+📱;Open-Source+Builder+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Welcome+to+my+Universe+🌌;Software+Developer+💻;Open-Source+Builder+🚀" alt="Typing SVG" />
 </a>
 <p align="center">
-  Building high-performance utilities and crafting content across the digital cosmos.
+  Building high-performance utilities and crafting clean code across the digital cosmos.
 </p>
 <br/>
-<a href="#"><img src="https://img.shields.io/badge/Moto_Arsenal_Network-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Moto Arsenal Network"/></a>
-<a href="#"><img src="https://img.shields.io/badge/FlowkiePlays-9146FF?style=for-the-badge&logo=twitch&logoColor=white" alt="FlowkiePlays"/></a>
-<a href="#"><img src="https://img.shields.io/badge/StellarBite-000000?style=for-the-badge&logo=spacex&logoColor=white" alt="StellarBite"/></a>
+<a href="https://github.com/YOUR_GITHUB_USERNAME"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile"/></a>
 </div>
 ---
 ### 🛸 About My Orbit
-I am a developer focused on solving real-world problems through clean architecture and automation. When I'm not writing code, I'm likely managing content creation across automotive tech, gaming, and space science, or grinding matches in Overwatch.
-- 🔭 **Currently Building:** Expanding the capabilities of **AutoKit - Vehicle Manager** and maintaining the open-source **OpenLaunchKit** repository.
-- 💡 **Interests:** Mobile App Development, Local AI Integration, UI/UX Design, and Automotive Hardware.
-- 🤝 **Open for collaboration on:** Python-based automation, Streamlit dashboards, and open-source developer tools.
+I am a developer focused on solving real-world problems through clean architecture and automation. I specialize in building efficient workflows, local AI tools, and scalable applications.
+- 🔭 **Currently Building:** Expanding open-source tools to help developers launch and maintain their software faster.
+- 💡 **Interests:** App Development, Local AI Integration, Automation Scripts, and UI/UX Architecture.
+- 🤝 **Open for collaboration on:** Python-based automation, developer utilities, and open-source repositories.
 ---
 ### 🛠️ Tech Stack & Tools
 <div align="center">
@@ -24,7 +22,7 @@ I am a developer focused on solving real-world problems through clean architectu
   </a>
   <br><br>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,bash,discord,notion&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=linux,bash,notion&theme=dark" />
   </a>
 </div>
 ---
@@ -45,8 +43,8 @@ I am a developer focused on solving real-world problems through clean architectu
 
 | Project | Description | Status |
 | :--- | :--- | :--- |
-| **OpenLaunchKit** | A free, local-first toolkit utilizing Ollama and Streamlit to automate ASO, mockups, and changelogs for indie devs. | `Active` 🟢 |
-| **AutoKit - Vehicle Manager** | A comprehensive mobile application dedicated to tracking and managing vehicle maintenance and logs. | `Live` 🟢 |
+| **OpenLaunchKit** | A free, local-first toolkit utilizing Ollama and Streamlit to automate App Store Optimization, dynamic asset mockups, and release changelogs. | `Active` 🟢 |
+| **ContextPress** | A streamlined, high-performance repository built for efficient content handling and contextual management. | `Active` 🟢 |
 
 <br>
 <div align="center">
